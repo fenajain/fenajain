@@ -40,15 +40,11 @@ I'm Fena Jain, a passionate and enthusiastic data science student ready to embar
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=fenajain&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fenajain&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fenajain&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   
-## 📈 Activity Graph
-  
-<a href="https://github.com/Darshan660/github-readme-activity-graph"><img alt="Fena's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshan660&theme=react-dark" /><a>
-
   
 ## ✍️ Bytes of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
